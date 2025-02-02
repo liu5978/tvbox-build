@@ -21,7 +21,7 @@ jobs:
       matrix:
         include:
           - userName: liu5978
-            repoUrl: https://github.com/liu5978/TVBoxOS-Mobilev1.0.0
+            repoUrl: https://github.com/liu5978/-
             branchName: main
             javaVersion: 8
     env:
