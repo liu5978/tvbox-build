@@ -21,7 +21,7 @@ jobs:
       matrix:
         include:
           - userName: liu5978
-            repoUrl: https://github.com/liu5978/tv
+            repoUrl: https://github.com/liu5978/jisit-andorid-app
             branchName: main
             javaVersion: 8
     env:
