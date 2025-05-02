@@ -22,7 +22,7 @@ jobs:
         include:
           - userName: liu5978
             repoUrl: https://github.com/liu5978/vedio-phone
-            branchName: main
+            branchName: master
             javaVersion: 8
     env:
       # 登录蓝奏云后在控制台运行document.cookie
